@@ -26,6 +26,14 @@ public class IntegrationTest {
         browser.goTo("http://localhost:3333");
         assertThat(browser.pageSource()).contains("history of browsers");
 
+        browser.goTo("http://localhost:3333/internetexplorer");
+        assertThat(browser.pageSource()).contains("brief history of Internet Explorer");
+
+        browser.goTo("http://localhost:3333/firefox");
+        assertThat(browser.pageSource()).contains("brief history of Firefox");
+
+        browser.goTo("http://localhost:3333/chrome");
+        assertThat(browser.pageSource()).contains("brief history of Chrome");
       }
     });
   }

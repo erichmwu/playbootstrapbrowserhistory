@@ -35,15 +35,15 @@
           <value>
             <ProjectSettingsEntry>
               <option name="version" value="2.3.7" />
-              <option name="sourceDir" value="C:\Users\yamisekai\Documents\Spring 2015\ICS613\playbootstrapbrowserhistory\conf" />
-              <option name="confDir" value="C:\Users\yamisekai\Documents\Spring 2015\ICS613\playbootstrapbrowserhistory\app" />
+              <option name="sourceDir" value="C:\Users\yamisekai\Documents\Spring2015\ICS613\playbootstrapbrowserhistory\conf" />
+              <option name="confDir" value="C:\Users\yamisekai\Documents\Spring2015\ICS613\playbootstrapbrowserhistory\app" />
               <option name="routesImports">
                 <list>
                   <option value="controllers.Assets.Asset" />
                   <option value="play.libs.F" />
                 </list>
               </option>
-              <option name="uri" value="/C:/Users/yamisekai/Documents/Spring%202015/ICS613/playbootstrapbrowserhistory" />
+              <option name="uri" value="/C:/Users/yamisekai/Documents/Spring2015/ICS613/playbootstrapbrowserhistory" />
             </ProjectSettingsEntry>
           </value>
         </entry>
